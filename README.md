@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my PhD in Data Science and Generative AI.<br />
+- 🔭 I’m currently working on my PhD in Data Science and Generative AI <br />
 - 👨‍🏫 Academic Tutor in Data Science and Statistics (2022 - Present) - Various institutions, including the University of Melbourne
 - 🎓 PhD Student in Data Science (2023 - Present) - Deakin University
 - 🎓 Master of Data Science (2021 - 2022) - University of Melbourne
