@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Echo
 
 <!--
 **echoid/echoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on my PhD in Data Science and Generative AI.
+
+👨‍🏫 Tutor in Data Science and Statistics (2022 - Present) - Various institutions, including the University of Melbourne
+🎓 PhD Student in Data Science (2023 - Present) - Deakin University
+🎓 Master of Data Science (2021 - 2022) - University of Melbourne
+🎓 Bachelor of Science (Major in Data Science) (2018 - 2020) - University of Melbourne
+
+
+Skills
+Programming: Python | R | SQL | Java | C | JavaScript
+
+Machine Learning: Scikit-learn | TensorFlow | Pytorch
+
+Cloud Platforms: BigQuery | Pyspark | Spartan | AWS
+
+Visualisation: Tableau | Microsoft Power BI | Google Data Studio
+
+Technical: Git | LaTeX | Microsoft Office Suite (Word, PowerPoint, and Excel)
+
+Languages: English | Mandarin
+
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/youran-zhou) or visit my personal website [echoid.github.io](https://echoid.github.io)!
